@@ -1,18 +1,19 @@
 # Heathkit ET-3400 Microprocessor Trainer
 
-This repository contains resources for the Heathkit ET-3400 Microprocessor Training System.  We did not generate these resources unless otherwise noted.  These resources are provided to help students gain a deeper understanding of embedded systems.
+This repository contains resources for the Heathkit ET-3400 Microprocessor Training System.  We did not generate these resources unless otherwise noted.  These resources are provided to help students independantly gain a deeper understanding of embedded systems.  While the 6800 processor family is long obsoltete, the architecture of these processors lives on in embedded systems.  Understanding these "simple" processors of the past helps gain a deeper appreciation of modern systems.  
 
-There are four great resources for emulation that exist.  The required ROM files are present in this repository to run the emulation systems, but are not our creation.  
+There are four great resources for emulation that exist.  The required ROM files are present in this repository to run the emulation systems, but are not our creation.  Give love and support the creators who put hard work into this effort!
 
-1) MAME (version 0.193b and later): http://mamedev.org/release.html
+1) MAME (version 0.193b and later): http://mamedev.org/release.html  For MAME, use the debugger in use with the following execution switches (for MAME located in C:\EMULATORS\MAME\) C:\EMULATORS\MAME\mame64.exe -window -debug to allow the debugger to be used (to see the memory locations and use the cassette interface). 
 
 2) C Sharp 6800 Emulator: https://sharp6800.codeplex.com/ (Rupert Avery: https://www.codeplex.com/site/users/view/RupertAvery)
 
 3) HyperVision 6800 IDE Assembler: http://www.hvrsoftware.com/6800emu.htm
 
-4) Bill Lovegrove's Emulator: http://www.pilgrimworks.com/trainer.htm
+4) Bill Lovegrove's ET-3400 Emulator: http://www.pilgrimworks.com/trainer.htm (created circa year 1999, now obsolete and will not run on modern versions of windows)
 
-For MAME, use the debugger in use with the following execution switches (for MAME located in C:\EMULATORS\MAME\) C:\EMULATORS\MAME\mame64.exe -window -debug to allow the debugger to be used (to see the memory locations and use the cassette interface)
+
+Additional Resources:
 
 Please see the manual excerpt here:  https://archive.org/details/HeathkitManualForTheEt-3400MicroprocessorTrainer and here: http://www.classiccmp.org/dunfield/heath/index.htm, and details on the ET-3400 main board: http://gc.org/et-3400/
 
