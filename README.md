@@ -10,6 +10,8 @@ Use the debubber in use with the following execution switches (for MAME located 
 
 Please see the manual excerpt here:  https://archive.org/details/HeathkitManualForTheEt-3400MicroprocessorTrainer and here: http://www.classiccmp.org/dunfield/heath/index.htm
 
+Details for the ETA-3400 I/O Accessory: http://www.andysarcade.net/personal/tech/ETA-3400.htm
+
 
 The kit had the following features:
 
