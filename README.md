@@ -4,7 +4,7 @@ This repository contains resources for the Heathkit ET-3400 Microprocessor Train
 
 There are four great resources for emulation that exist.  The required ROM files are present in this repository to run the emulation systems, but are not our creation.  Give love and support the creators who put hard work into this effort!
 
-1) MAME (version 0.193b and later): http://mamedev.org/release.html  For MAME, use the debugger in use with the following execution switches (for MAME located in C:\EMULATORS\MAME\) C:\EMULATORS\MAME\mame64.exe -window -debug to allow the debugger to be used (to see the memory locations and use the cassette interface). 
+1) MAME (version 0.193b and later): http://mamedev.org/release.html  For MAME, use the debugger in use with the following execution switches (for MAME located in C:\EMULATORS\MAME\) C:\EMULATORS\MAME\mame64.exe -window -debug to allow the debugger to be used (to see the memory locations and use the cassette interface). Use the Kansas City Standard Audio interfacing python programs (included in this repository) to allow data input and output from the emulated 6800's memory using the cassette emulator feature in the debugger.
 
 2) C Sharp 6800 Emulator: https://sharp6800.codeplex.com/ (Rupert Avery: https://www.codeplex.com/site/users/view/RupertAvery)
 
