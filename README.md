@@ -2,11 +2,13 @@
 
 This repository contains resources for the Heathkit ET-3400 Microprocessor Training System.  We did not generate these resources unless otherwise noted.  
 
-http://mamedev.org/release.html
+There are two great resources for emulation that exist.  The required ROM files are present in this repository to run the emulation systems, but are not our creation.  
 
-https://sharp6800.codeplex.com/ (Rupert Avery: https://www.codeplex.com/site/users/view/RupertAvery)
+1) MAME (version 0.193b and later): http://mamedev.org/release.html
 
-Use the debubber in use with the following execution switches (for MAME located in C:\EMULATORS\MAME\) C:\EMULATORS\MAME\mame64.exe -window -debug to allow the debugger to be used (to see the memory locations and use the cassette interface)
+2) C Sharp 6800 Emulator: https://sharp6800.codeplex.com/ (Rupert Avery: https://www.codeplex.com/site/users/view/RupertAvery)
+
+For MAME, use the debugger in use with the following execution switches (for MAME located in C:\EMULATORS\MAME\) C:\EMULATORS\MAME\mame64.exe -window -debug to allow the debugger to be used (to see the memory locations and use the cassette interface)
 
 Please see the manual excerpt here:  https://archive.org/details/HeathkitManualForTheEt-3400MicroprocessorTrainer and here: http://www.classiccmp.org/dunfield/heath/index.htm, and details on the ET-3400 main board: http://gc.org/et-3400/
 
