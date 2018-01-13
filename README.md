@@ -1,6 +1,6 @@
-# ET-3400
+# Heathkit ET-3400 Microprocessor Trainer
 
-This repository contains resources for the Heathkit ET-3400 Microprocessor Training System.  We did not generate these resources unless otherwise noted.  
+This repository contains resources for the Heathkit ET-3400 Microprocessor Training System.  We did not generate these resources unless otherwise noted.  These resources are provided to help students gain a deeper understanding of embedded systems.
 
 There are two great resources for emulation that exist.  The required ROM files are present in this repository to run the emulation systems, but are not our creation.  
 
@@ -56,3 +56,7 @@ EXAM - Start viewing hex at specified address
 FWD - During EXAMine mode, move address forward
 
 ***************************************************
+
+Motorola 6800 Architecture Overview:  http://www.cpu-world.com/Arch/6800.html
+
+Motorola 6800 Basic Operation Overview:http://www.hvrsoftware.com/6800.pdf
