@@ -2,13 +2,15 @@
 
 This repository contains resources for the Heathkit ET-3400 Microprocessor Training System.  We did not generate these resources unless otherwise noted.  These resources are provided to help students gain a deeper understanding of embedded systems.
 
-There are three great resources for emulation that exist.  The required ROM files are present in this repository to run the emulation systems, but are not our creation.  
+There are four great resources for emulation that exist.  The required ROM files are present in this repository to run the emulation systems, but are not our creation.  
 
 1) MAME (version 0.193b and later): http://mamedev.org/release.html
 
 2) C Sharp 6800 Emulator: https://sharp6800.codeplex.com/ (Rupert Avery: https://www.codeplex.com/site/users/view/RupertAvery)
 
 3) HyperVision 6800 IDE Assembler: http://www.hvrsoftware.com/6800emu.htm
+
+4) Bill Lovegrove's Emulator: http://www.pilgrimworks.com/trainer.htm
 
 For MAME, use the debugger in use with the following execution switches (for MAME located in C:\EMULATORS\MAME\) C:\EMULATORS\MAME\mame64.exe -window -debug to allow the debugger to be used (to see the memory locations and use the cassette interface)
 
