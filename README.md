@@ -10,7 +10,7 @@ There are four great resources for emulation that exist.  The required ROM files
 
 3) HyperVision 6800 IDE Assembler: http://www.hvrsoftware.com/6800emu.htm
 
-4) Bill Lovegrove's ET-3400 Emulator: http://www.pilgrimworks.com/trainer.htm (created circa year 1999, now obsolete and will not run on modern versions of windows)
+4) Bill Lovegrove's ET-3400 Emulator: http://www.pilgrimworks.com/trainer.htm (created circa year 1999, now obsolete and will not run on modern versions of windows, available from http://www.classiccmp.org/dunfield/heath/index.htm)
 
 
 Additional Resources:
