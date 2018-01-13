@@ -8,9 +8,9 @@ https://sharp6800.codeplex.com/ (Rupert Avery: https://www.codeplex.com/site/use
 
 Use the debubber in use with the following execution switches (for MAME located in C:\EMULATORS\MAME\) C:\EMULATORS\MAME\mame64.exe -window -debug to allow the debugger to be used (to see the memory locations and use the cassette interface)
 
-Please see the manual excerpt here:  https://archive.org/details/HeathkitManualForTheEt-3400MicroprocessorTrainer and here: http://www.classiccmp.org/dunfield/heath/index.htm, and details: http://gc.org/et-3400/
+Please see the manual excerpt here:  https://archive.org/details/HeathkitManualForTheEt-3400MicroprocessorTrainer and here: http://www.classiccmp.org/dunfield/heath/index.htm, and details on the ET-3400 main board: http://gc.org/et-3400/
 
-Details for the ETA-3400 I/O Accessory: http://www.andysarcade.net/personal/tech/ETA-3400.htm
+Details for the ETA-3400 I/O Accessory: http://www.andysarcade.net/personal/tech/ETA-3400.htm and http://www.vintagecomputer.net/browse_thread.cfm?id=553
 
 
 The kit had the following features:
