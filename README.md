@@ -1,6 +1,6 @@
 # Heathkit ET-3400 Microprocessor Trainer
 
-This repository contains resources for the Heathkit ET-3400 Microprocessor Training System.  We did not generate these resources unless otherwise noted.  These resources are provided to help students independantly gain a deeper understanding of embedded systems.  While the 6800 processor family is long obsoltete, the architecture of these processors lives on in embedded systems.  Understanding these "simple" processors of the past helps gain a deeper appreciation of modern systems.  
+This repository contains resources for the Heathkit ET-3400 Microprocessor Training System.  We did not generate these resources unless otherwise noted.  These resources are provided to help students independantly gain a deeper understanding of embedded systems.  While the 6800 processor family is long obsolete, the architecture of these processors lives on in many embedded systems.  Understanding these "simple" processors of the past helps gain a deeper appreciation of modern systems.  
 
 There are four great resources for emulation that exist.  The required ROM files are present in this repository to run the emulation systems, but are not our creation.  Give love and support the creators who put hard work into this effort!  Please see how the ROMs were sourced:  http://www.andysarcade.net/personal/tech/ETA-3400.htm
 
