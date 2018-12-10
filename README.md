@@ -2,7 +2,7 @@
 
 This repository contains resources for the Heathkit ET-3400 Microprocessor Training System.  We did not generate these resources unless otherwise noted.  These resources are provided to help students independantly gain a deeper understanding of embedded systems.  While the 6800 processor family is long obsolete, the architecture of these processors lives on in many embedded systems.  Understanding these "simple" processors of the past helps gain a deeper appreciation of modern systems.  
 
-Repository also includes examples of Kansas City Standard (KCS) encoding and decoding of files as audio that can be used with the Heathkit ET-3400 Microprocessor Training System to store files on audio casette (or as audio files) or separately.
+Repository also includes examples of Kansas City Standard (KCS) encoding and decoding of files as audio that can be used with the Heathkit ET-3400 Microprocessor Training System to store files on audio casette (or as audio files) or separately, typically referred to in the past as Kansas City Standard (KCS) Cassette Data.
 
 There are four great resources for emulation that exist.  The required ROM files are present in this repository to run the emulation systems, but are not our creation.  Give love and support the creators who put hard work into this effort!  Please see how the ROMs were sourced:  http://www.andysarcade.net/personal/tech/ETA-3400.htm
 
