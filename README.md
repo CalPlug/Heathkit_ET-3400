@@ -8,7 +8,7 @@ There are four great resources for emulation that exist.  The required ROM files
 
 1) MAME (version 0.193b and later): http://mamedev.org/release.html  For MAME, use the debugger in use with the following execution switches (for MAME located in C:\EMULATORS\MAME\) C:\EMULATORS\MAME\mame64.exe -window -debug to allow the debugger to be used (to see the memory locations and use the cassette interface). Use the Kansas City Standard Audio interfacing python programs (included in this repository in the "KCS_Example" directory) to allow data input and output from the emulated 6800's memory using the cassette emulator feature in the debugger.
 
-2) C Sharp 6800 Emulator: https://sharp6800.codeplex.com/ (Rupert Avery: https://www.codeplex.com/site/users/view/RupertAvery)
+2) C Sharp 6800 Emulator:https://github.com/RupertAvery/sharp6800 (Rupert Avery, former info: https://sharp6800.codeplex.com/, https://www.codeplex.com/site/users/view/RupertAvery)
 
 3) HyperVision 6800 IDE Assembler: http://www.hvrsoftware.com/6800emu.htm
 
